@@ -1,1 +1,1 @@
-# PatronesDeDise-o
+# Design Patterns.
